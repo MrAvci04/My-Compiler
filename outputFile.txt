@@ -1,0 +1,25 @@
+==================  Abstract Syntax Tree ================
+x
+y
+a
+ldc 0rec
+b
+arr
+yes
+yes
+yes
+rec
+ldc 0rec
+point
+ldc 9point
+ldc 9point
+ldc 6b
+ldc 9point
+ldc 6b
+ldc 7arr
+ldc 1
+ldc 2
+ldc 3
+arrayref
+ldc 1
+sto
